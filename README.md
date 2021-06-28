@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
+I am a fullstack software engineer from 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Logo"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo"/>
 
 ---
 
